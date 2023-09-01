@@ -9,6 +9,7 @@ djangorestframework = "==3.14.0"
 django-cors-headers = "4.2.0"
 pandas = "2023.8.23"
 loguru = "0.7.0"
+
 [dev-packages]
 
 [requires]
