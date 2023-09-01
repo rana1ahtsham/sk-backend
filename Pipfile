@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = false
+name = "pip_conf_index_global"
+
+[packages]
+django = "4.2.4"
+djangorestframework = "==3.14.0"
+django-cors-headers = "4.2.0"
+pandas = "2023.8.23"
+loguru = "0.7.0"
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.10"

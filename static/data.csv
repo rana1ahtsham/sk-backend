@@ -1,0 +1,25 @@
+Id,ListingsName,ProviderName,ServiceLocation,PricePerHour,ServiceNature
+1,Car Ride,SAHK - New Territories East Home Support Service,Sai Kung Town Center,$10.00 ,Car Ride
+2,Wound Care,SAHK - New Territories East Home Support Service,Sai Kung Town Center,$43.00 ,Wound Care
+3,Rehab Training,SAHK - New Territories East Home Support Service,Sai Kung Town Center,$52.00 ,Rehab Training
+4,Respite,SAHK - New Territories East Home Support Service,Sai Kung Town Center,$33.00 ,Respite
+5,Escort,SAHK - New Territories East Home Support Service,Sai Kung Town Center,$33.00 ,Escort
+6,Showering Service,SAHK - New Territories East Home Support Service,Sai Kung Town Center,$33.00 ,Showering
+7,Car Ride,Yang Memorial Methodist Social Service - Kowloon (1) Regional Home Care Service,Tseung Kwan O,$10.00 ,Car Ride
+8,Wound Care,Yang Memorial Methodist Social Service - Kowloon (1) Regional Home Care Service,Tseung Kwan O,$43.00 ,Wound Care
+9,Rehab Training,Yang Memorial Methodist Social Service - Kowloon (1) Regional Home Care Service,Tseung Kwan O,$52.00 ,Rehab Training
+10,Respite,Yang Memorial Methodist Social Service - Kowloon (1) Regional Home Care Service,Tseung Kwan O,$33.00 ,Respite
+11,Escort,Yang Memorial Methodist Social Service - Kowloon (1) Regional Home Care Service,Tseung Kwan O,$33.00 ,Escort
+12,Showering Service,Yang Memorial Methodist Social Service - Kowloon (1) Regional Home Care Service,Tseung Kwan O,$33.00 ,Showering
+13,Car Ride,Po Leung Kuk Integrated Support Service for People with Severe Physical Disabilities,Sai Kung Town Center,$10.00 ,Car Ride
+14,Wound Care,Po Leung Kuk Integrated Support Service for People with Severe Physical Disabilities,Sai Kung Town Center,$43.00 ,Wound Care
+15,Rehab Training,Po Leung Kuk Integrated Support Service for People with Severe Physical Disabilities,Sai Kung Town Center,$52.00 ,Rehab Training
+16,Respite,Po Leung Kuk Integrated Support Service for People with Severe Physical Disabilities,Sai Kung Town Center,$33.00 ,Respite
+17,Escort,Po Leung Kuk Integrated Support Service for People with Severe Physical Disabilities,Sai Kung Town Center,$33.00 ,Escort
+18,Showering Service,Po Leung Kuk Integrated Support Service for People with Severe Physical Disabilities,Sai Kung Town Center,$33.00 ,Showering
+19,Car Ride,Yang Memorial Methodist Social Service - Integrated Support Service for People with Severe Physical Disabilities,Tseung Kwan O,$10.00 ,Car Ride
+20,Wound Care,Yang Memorial Methodist Social Service - Integrated Support Service for People with Severe Physical Disabilities,Tseung Kwan O,$43.00 ,Wound Care
+21,Rehab Training,Yang Memorial Methodist Social Service - Integrated Support Service for People with Severe Physical Disabilities,Tseung Kwan O,$52.00 ,Rehab Training
+22,Respite,Yang Memorial Methodist Social Service - Integrated Support Service for People with Severe Physical Disabilities,Tseung Kwan O,$33.00 ,Respite
+23,Escort,Yang Memorial Methodist Social Service - Integrated Support Service for People with Severe Physical Disabilities,Tseung Kwan O,$33.00 ,Escort
+24,Showering Service,Yang Memorial Methodist Social Service - Integrated Support Service for People with Severe Physical Disabilities,Tseung Kwan O,$33.00 ,Showering
