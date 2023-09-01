@@ -18,8 +18,14 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument('--path', type=str, default=DEFAULT_CSV_FILE_PATH, help='Path to the CSV file')
+        parser.add_argument('--force', action='store_true', help='Force update or create')
 
     def handle(self, *args, **kwargs):
+
+        if Provider.objects.exists():
+            if not kwargs['force']:
+                logger.info('Database have providers, You must specify --force to overwrite existing')
+                return
 
         # Adding Service Locations
         for row in CHOICES_SERVICE_LOCATIONS:

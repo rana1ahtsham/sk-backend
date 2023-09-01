@@ -10,3 +10,4 @@ class ProviderConfig(AppConfig):
         call_command("makemigrations")
         call_command("migrate")
         call_command("load_csv")
+        # call_command("load_csv", "--force")
